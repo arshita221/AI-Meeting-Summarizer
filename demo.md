@@ -14,4 +14,4 @@ This video demonstrates the complete workflow of the application:
 
 ### Demo Video
 
-[▶️ Watch the Demo Video](https://drive.google.com/file/d/1vQcoXFM0eXQiByR5yN_L0ivCCoSlkgs/view?usp=sharing)
+[▶️ Watch the Demo Video](https://drive.google.com/file/d/1vQcoxFM0eXQwiByR5yN_L0ivCCoSlkgs/view?usp=sharing)
